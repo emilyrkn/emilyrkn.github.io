@@ -4,13 +4,13 @@ body {
 }
 
 div {
+  font-family: Arial;
+  font-weight: 100;
   background-color: white;
   border-style: solid;
   border-width: 20px 20px;
   border-color: white;
   margin: 15px 350px 15px;
-  font-family: Helvetica;
-  font-weight: 100;
 }
 
 h1 {
