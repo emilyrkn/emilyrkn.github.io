@@ -14,11 +14,19 @@ p {
 }
 
 nav {
+  font-family: Helvetica;
   float: right;
 }
 
-a {
+nav a {
+  font-family: Helvetica;
   display: block;
   padding: 10px;
-  background-color: lightblue;
+  background-color: #C8E4DB;
+}
+
+nav a:hover {
+  font-family: Helvetica;
+  font-style: italic;
+  background-color: #BBD4CC;
 }
