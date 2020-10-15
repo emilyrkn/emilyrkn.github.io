@@ -8,25 +8,25 @@ div {
 }
 
 h1 {
-  font-family: Helvetica;
+  font-family: Bookman;
   color: black;
   font-size: 60px;
 }
 
 p {
-  font-family: Helvetica;
+  font-family: Bookman;
   font-size: 20px;
 }
 
 nav {
-  font-family: Helvetica;
+  font-family: Bookman;
   float: right;
   color: black;
   text-decoration: none;
 }
 
 nav a {
-  font-family: Helvetica;
+  font-family: Bookman;
   display: block;
   padding: 10px;
   color: black;
@@ -36,7 +36,7 @@ nav a {
 }
 
 nav a:hover {
-  font-family: Helvetica;
+  font-family: Bookman;
   font-style: italic;
   color: black;
   text-decoration: none;
