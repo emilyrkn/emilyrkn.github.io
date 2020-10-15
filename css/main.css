@@ -23,10 +23,12 @@ nav a {
   display: block;
   padding: 10px;
   background-color: #C8E4DB;
+  border-radius: 20px;
 }
 
 nav a:hover {
   font-family: Helvetica;
   font-style: italic;
   background-color: #BBD4CC;
+  border-radius: 20px;
 }
