@@ -1,7 +1,6 @@
 body {
   background-image: url("/css/greens.png");
   background-size: 1500px 1500px;
-  background-attachment: fixed;
   background-position: center;
 }
 
