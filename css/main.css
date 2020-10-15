@@ -1,6 +1,7 @@
 body {
   background-image: url("/css/multi-waves.png");
   background-size: 1500px 1500px;
+  background-attachment: fixed;
   background-position: center;
 }
 
