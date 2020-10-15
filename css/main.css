@@ -2,6 +2,7 @@ body {
   background-image: url("/css/green-waves.png");
   background-size: 2000px 2000px;
   height: 100%;
+  margin: 0;
 }
 
 div {
