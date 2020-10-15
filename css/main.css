@@ -1,7 +1,6 @@
 body {
   background-image: url("/css/multi-waves.png");
   background-size: 2200px 2200px;
-  height: 100%;
   margin: 0;
 }
 
@@ -12,7 +11,6 @@ div {
   border-style: solid;
   border-width: 20px 20px;
   border-color: white;
-  height: 100%;
   margin: 15px 350px 15px;
 }
 
