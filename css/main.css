@@ -1,12 +1,13 @@
 body {
   background-image: url("/css/green-waves.png");
   background-size: 2000px 2000px;
+  height: 100%;
 }
 
 div {
   font-family: Helvetica;
   background-color: white;
-  height: auto;
+  height: 100%;
   margin: 15px 350px 15px;
 }
 
