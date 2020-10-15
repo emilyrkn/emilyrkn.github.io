@@ -15,3 +15,9 @@ p {
 nav {
   float: right;
 }
+
+a {
+  display: block;
+  padding: 10px;
+  background-color: lightblue;
+}
