@@ -1,5 +1,6 @@
 body {
   background-image: url("/css/multi-waves.png");
+  background-size: 2200px 2200px;
   height: 100%;
   margin: 0;
 }
