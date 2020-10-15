@@ -1,18 +1,19 @@
 body {
   background-color: white;
   margin: 80px;
-  margin: 15px 115px 15px 115px;
 }
 
 h1 {
   font-family: Helvetica;
   color: black;
   font-size: 60px;
+  margin: 15px 200px 15px 200px;
 }
 
 p {
   font-family: Helvetica;
   font-size: 20px;
+  margin: 15px 200px 15px 200px;
 }
 
 nav {
