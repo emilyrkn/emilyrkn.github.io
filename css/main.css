@@ -6,6 +6,7 @@ body {
 div {
   font-family: Helvetica;
   background-color: white;
+  height: auto;
   margin: 15px 350px 15px;
 }
 
