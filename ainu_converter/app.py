@@ -120,4 +120,4 @@ def convertText():
         converted_list.append(word)
     converted = ' '.join(converted_list)
     converted = converted.capitalize()
-    return converted
+    return print(converted)
