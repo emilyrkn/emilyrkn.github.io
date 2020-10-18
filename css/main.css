@@ -1,5 +1,5 @@
 body {
-  background-color: #060053;
+  background-color: #070B19;
 }
 
 div {
@@ -34,7 +34,7 @@ nav a {
   padding: 10px;
   color: black;
   text-decoration: none;
-  background-color: #C3C2E1;
+  background-color: #F2F2F2;
   border-radius: 10px;
 }
 
@@ -42,6 +42,6 @@ nav a:hover {
   font-style: italic;
   color: black;
   text-decoration: none;
-  background-color: #AAA9C5;
+  background-color: #E6E6E6;
   border-radius: 10px;
 }
