@@ -35,7 +35,7 @@ nav a {
   padding: 10px;
   color: black;
   text-decoration: none;
-  background-color: #AAA9C5;
+  background-color: #C3C2E1;
   border-radius: 10px;
 }
 
@@ -43,6 +43,6 @@ nav a:hover {
   font-style: italic;
   color: black;
   text-decoration: none;
-  background-color: #BBD4CC;
+  background-color: #AAA9C5;
   border-radius: 10px;
 }
