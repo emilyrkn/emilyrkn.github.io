@@ -12,13 +12,14 @@ div {
 }
 
 h1 {
-  color: black;
+  color: #007791;
   font-size: 60px;
   font-weight: 200;
   margin-bottom: 0px;
 }
 
 p {
+  color: #007791;
   margin-top: 0px;
   font-size: 20px;
 }
