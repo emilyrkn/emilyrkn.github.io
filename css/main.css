@@ -24,6 +24,22 @@ p {
   font-size: 20px;
 }
 
+p a {
+  color: #1ca9c9;
+  text-decoration: none;
+}
+
+p a:hover {
+  font-style: italic;
+  color: #1ca9c9;
+  text-decoration: none;
+}
+
+p a:visited {
+  color: #48D1CC;
+  text-decoration: none;
+}
+
 nav {
   float: right;
   color: black;
